@@ -1,2 +1,2 @@
 # Real-Time-Power-BI-Dashboard
-this Dashboard has be designed to monitor the team performance in a real time, with the clint ATS system as the data source  
+## This Dashboard has been designed to monitor the team performance in a real time, with the client ATS system as the data source  
