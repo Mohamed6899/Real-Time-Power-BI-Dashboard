@@ -1,6 +1,6 @@
 # Performance-Dashboard-With daily refresh
 ## This Dashboard has been designed to monitor the team's performance on a daily basis.
-## by having the ATS system for the client sends a daily email, and with the form Power Automate flow, extract the file and add it to a SharePoint folder to have the dashboard connected to it  
+## by having the ATS system for the client sends a daily email, and by integrating with Power Automate flow, that extracts the file from the email and adds it to a SharePoint folder to have the dashboard connected to it and present the data. 
 
 
 
