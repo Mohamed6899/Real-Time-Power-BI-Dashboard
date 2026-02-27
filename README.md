@@ -3,4 +3,5 @@
 ## by having the ATS system for the client sends a daily email, and with the form Power Automate flow, extract the file and add it to a SharePoint folder to have the dashboard connected to it  
 
 
-<img width="1151" height="684" alt="Screenshot 2026-02-27 223119" src="https://github.com/user-attachments/assets/cfa0e5e1-4350-4ba2-80c1-62738104f1f6" />
+<img width="1145" height="681" alt="image" src="https://github.com/user-attachments/assets/33c45047-d6a2-4504-9e44-55754b97caa1" />
+
